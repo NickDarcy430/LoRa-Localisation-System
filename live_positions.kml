@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+
+            <Placemark>
+                <name>T3</name>
+                <Style><IconStyle><scale>1.2</scale>
+                <Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle></Style>
+                <Point><coordinates>145.050522,-37.777069,0</coordinates></Point>
+            </Placemark>
+            
+            <Placemark>
+                <name>T2</name>
+                <Style><IconStyle><scale>1.2</scale>
+                <Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle></Style>
+                <Point><coordinates>145.050583,-37.777012,0</coordinates></Point>
+            </Placemark>
+            
+            <Placemark>
+                <name>T4</name>
+                <Style><IconStyle><scale>1.2</scale>
+                <Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle></Style>
+                <Point><coordinates>145.050552,-37.777008,0</coordinates></Point>
+            </Placemark>
+            
+            <Placemark>
+                <name>T1</name>
+                <Style><IconStyle><scale>1.2</scale>
+                <Icon><href>http://maps.google.com/mapfiles/kml/paddle/blu-circle.png</href></Icon></IconStyle></Style>
+                <Point><coordinates>145.050568,-37.777039,0</coordinates></Point>
+            </Placemark>
+            
+            <Placemark>
+                <name>Receiver</name>
+                <Style><IconStyle><scale>1.2</scale>
+                <Icon><href>http://maps.google.com/mapfiles/kml/paddle/grn-circle.png</href></Icon></IconStyle></Style>
+                <Point><coordinates>145.050522,-37.777031,0</coordinates></Point>
+            </Placemark>
+            </Document>
+</kml>
